@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Карта нещасть України</title>
     <style>
         html, body {
@@ -27,7 +29,6 @@
             font-family: 'Courier New', monospace;
             fill: #434348 !important;
             font-weight: bold !important;
-            font-size: 3em !important;
         }
 
         .highcharts-subtitle {
